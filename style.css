@@ -19,7 +19,8 @@ body {
     var(--bgColor) 0%,
     var(--bgColor2) 100%
   );
-  /* background-image: url('https://bit.ly/3nFVqJh'); */
+  background-image: url("./img/gabriel-lopes-silence-ok.jpg");
+  background-position: center center;
   opacity: 0;
   animation: 1s ease-out var(--delay) 1 transitionAnimation; /* duration/timing-function/delay/iterations/name */
   animation-fill-mode: forwards;
